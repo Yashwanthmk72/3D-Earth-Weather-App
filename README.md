@@ -65,6 +65,11 @@ python -m streamlit run app.py
 
 The terminal will show an address, usually `http://localhost:8501`. Open it in Chrome or another modern browser. Leave the terminal running while using the app; press `Ctrl+C` in the terminal to stop it.
 
+<img width="1679" height="878" alt="Screenshot 2026-10-27 011457" src="https://github.com/user-attachments/assets/baf91005-80ef-411c-854a-8b7b73e9c91c" />
+
+
+
+
 ## 2. Add this project to GitHub (beginner-friendly)
 
 ### Create a repository on GitHub
@@ -141,6 +146,9 @@ No API key is required for eligible non-commercial use of Open-Meteo's free endp
 - Terms: https://open-meteo.com/en/terms
 
 ### 3D globe
+
+<img width="1679" height="865" alt="Screenshot 2026-10-27 011518" src="https://github.com/user-attachments/assets/7474f080-9f1c-4316-897f-15e71c06280c" />
+
 
 Globe.gl and the Earth/night-sky textures load from public CDNs, so the browser needs an internet connection. The selected location's model conditions update in the panel embedded within the globe. It is not a continuous satellite or rain-radar feed. A true radar/cloud imagery layer would require an appropriate separate map-tile or weather-imagery provider.
 
